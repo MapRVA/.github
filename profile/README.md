@@ -3,6 +3,8 @@
 We are a group of mapping enthusiasts in Richmond, Virginia who work to create and share geospatial data of our city using [OpenStreetMap](https://www.openstreetmap.org).
 Here on GitHub, we collaborate on coding projects to support our mapping efforts.
 
+For more information on what we do, please check out [our website](https://maprva.org).
+
 ## Get in touch
 
 We welcome anyone to join us!
